@@ -1,0 +1,15 @@
+
+.resultContainer{
+  background: whitesmoke;
+  display: flex;
+  font-family: BBL;
+  width: 98%;
+  height: 5rem;
+  margin: 10px 0 20px 0;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  color: dodgerblue;
+  border-radius: 20px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.45);
+}
